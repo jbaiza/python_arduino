@@ -2,6 +2,7 @@ from board import Board
 from diode import Diode
 from button import Button
 
+
 board = Board()
 
 red = Diode(board, 13)
